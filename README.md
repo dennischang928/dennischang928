@@ -5,4 +5,4 @@
   Engineering attracts me in that it’s everywhere in our lives, from the transistors of our phone's chip to the camera in the Mars Curiosity Rover.
 I think robotics is the practical application of mathematics, physics, electronics, and design. Robotics brings those complicated theories and physics statements alive and makes them closer to our lives.
 
-Visit my website: [sengchon.com](https//sengchon.com)
+Visit my website: [sengchon.com](https://sengchon.com)
